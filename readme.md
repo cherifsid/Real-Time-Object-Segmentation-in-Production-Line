@@ -26,7 +26,7 @@ Using the adjusted HSV range, the script segments the image data. It uses OpenCV
 Below are some examples of the segmentation results using images from the `images_exercice2/` directory:
 
 ![Segmentation Result 1](results/Figure_1.png)
-![Segmentation Result 2](results/Figure_1.png)
+![Segmentation Result 2](results/Figure_4.png)
 ![Segmentation Result 3](results/Figure_7.png)
 
 ## Usage
